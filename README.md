@@ -19,7 +19,9 @@ The application fails to sanitize user-uploaded `.html` files. If such a file co
 <img width="940" height="711" alt="image" src="https://github.com/user-attachments/assets/0e7f7d53-7f44-4354-b660-02fe6267158b" />
 
 
+
 File uploaded and using built-in viewer renders the html allowing injection.
+
 
 <img width="940" height="178" alt="image" src="https://github.com/user-attachments/assets/c4403863-9d8f-427f-9427-ab67103bb2ed" />
 
